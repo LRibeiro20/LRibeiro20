@@ -4,9 +4,9 @@
   <h3>🚀 Full Stack & AI Engineer specializing in resilient architectures and intelligent applications</h3>
 
   <p align="center">
-    <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/luis-ribeiro-engineer/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/luis-ribeiro-engineer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:luluribas105@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="[https://yourportfolio.dev](https://ribeiro-labs.online/)"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
+    <a href="https://ribeiro-labs.online/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
   </p>
 </div>
 
@@ -14,12 +14,29 @@
 
 ## 💫 About Me
 
-I am a passionate Software Engineer focused on bridging the gap between robust backend systems, dynamic mobile experiences, and cutting-edge AI technologies. I specialize in building highly scalable APIs, offline-resilient mobile applications, and custom Retrieval-Augmented Generation (RAG) pipelines.
+I build and scale end-to-end AI systems that move beyond experimentation into real-world, high-reliability production environments. My work focuses on architecting intelligent systems powered by large language models, retrieval-augmented generation (RAG), and agentic workflows, with strong emphasis on performance, observability, and cost-efficient scaling.
 
-* 🛠️ **Current Focus:** Engineering an urban mobility and ride-hailing platform tailored for high-efficiency markets.
-* 🤖 **AI Exploration:** Optimizing local LLMs (Ollama, Gemma) and building private cloud AI environments.
-* 🌍 **Location:** Operating out of Maputo, Mozambique.
-* ⚡ **Fun Fact:** When I'm not tweaking a Python script or optimizing an Expo bundle, I’m likely breaking down a martial arts sequence or checking tactical football formations.
+I have deep experience engineering backend systems in Python (FastAPI/Flask), designing cloud-native architectures on GCP, and delivering robust cross-platform applications using React Native (Expo). My engineering approach prioritizes system design, scalability, and reliability over isolated model experimentation.
+
+My core expertise includes LLM integration, AI orchestration, retrieval systems, vector search, and production AI infrastructure. I specialize in identifying and solving bottlenecks across AI pipelines—from retrieval quality and latency optimization to prompt and context engineering.
+
+I operate at the intersection of software engineering and applied AI, building systems that transform state-of-the-art AI capabilities into dependable, production-ready products at scale.
+
+---
+
+## 🛠️ Technical Skills
+
+### **Languages**
+TypeScript, JavaScript, Python, Java, SQL
+
+### **Core Mobile & Web Stack**
+React Native (Production Experience), ReactJS, Next.js, NodeJS, PostgreSQL, REST/GraphQL APIs, UI/UX
+
+### **Backend & AI**
+Flask, Django, FastAPI, NestJS (Self-Taught/Familiarity), Chatbot Development, Recommendation Systems, NLP, Model Optimization
+
+### **Tools & Platforms**
+Git, GitHub, CI/CD with GitHub Actions, TDD, AI-Assisted Development Workflows (Proven ability to adopt new tools like Cursor IDE), GCP, AWS (basic exposure), MLOps fundamentals, Prisma (ORM - Self-Taught/Familiarity)
 
 ---
 
@@ -55,4 +72,3 @@ I am a passionate Software Engineer focused on bridging the gap between robust b
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" height="30"/>
   <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Vertex AI" height="30"/>
 </p>
-
