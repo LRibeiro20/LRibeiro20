@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=250&section=header&text=Hi%20there,%20I'm%20Luis%20Ribeiro%20👋&fontSize=50&animation=fadeIn" alt="Header" />
 
-  <h3>🚀 Full Stack & AI Engineer specializing in resilient architectures and intelligent applications</h3>
+  <h3>🚀 AI Systems Engineer | Software Engineer</h3>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/luis-ribeiro-engineer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
