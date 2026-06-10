@@ -64,22 +64,22 @@ I am a passionate Software Engineer focused on bridging the gap between robust b
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="180px"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=lribeiro20&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="180px"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" height="180px"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lribeiro20&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" height="180px"/>
       </td>
     </tr>
   </table>
   
   <br />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lribeiro20&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
   <p><i>"The best way to predict the future is to invent it."</i></p>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?lribeiro20&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
